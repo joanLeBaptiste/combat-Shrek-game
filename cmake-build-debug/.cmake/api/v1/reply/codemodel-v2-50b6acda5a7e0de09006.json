@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Shrek_V0_6",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Shrek_V0_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Shrek_V0_6-Debug-8efa1f6731deef4ef506.json",
+					"name" : "Shrek_V0_6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jbfer/Documents/BACH B2/code jeu c/versionning shrek/Shrek_V0.6-v2/Shrek_V0.6/cmake-build-debug",
+		"source" : "C:/Users/jbfer/Documents/BACH B2/code jeu c/versionning shrek/Shrek_V0.6-v2/Shrek_V0.6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

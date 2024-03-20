@@ -1,0 +1,6 @@
+# ninja log v5
+2	121	7326571392522188	build.ninja	cd9f2020a2a12fa9
+4	162	7326571394313086	CMakeFiles/Shrek_V0_6.dir/main.c.obj	35f49bee6c7be2ab
+1	189	7326571394573073	CMakeFiles/Shrek_V0_6.dir/menu.c.obj	e99768d79f14b7b5
+8	223	7326571394933082	CMakeFiles/Shrek_V0_6.dir/file.c.obj	bb1686f6cffd10c9
+224	362	7326571396272493	Shrek_V0_6.exe	a8ca2cbb44c191d6
