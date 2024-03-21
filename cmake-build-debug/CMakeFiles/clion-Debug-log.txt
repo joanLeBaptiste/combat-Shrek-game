@@ -1,0 +1,4 @@
+"C:\Users\jbfer\Documents\CLion 2023.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/jbfer/Documents/CLion 2023.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\jbfer\Documents\BACH B2\code jeu c\project dofus, theme Shrek" -B "C:\Users\jbfer\Documents\BACH B2\code jeu c\project dofus, theme Shrek\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/jbfer/Documents/BACH B2/code jeu c/project dofus, theme Shrek/cmake-build-debug

@@ -1,0 +1,3 @@
+C:/Users/jbfer/Documents/BACH B2/code jeu c/project dofus, theme Shrek/cmake-build-debug/CMakeFiles/project_dofus__theme_Shrek.dir
+C:/Users/jbfer/Documents/BACH B2/code jeu c/project dofus, theme Shrek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbfer/Documents/BACH B2/code jeu c/project dofus, theme Shrek/cmake-build-debug/CMakeFiles/rebuild_cache.dir

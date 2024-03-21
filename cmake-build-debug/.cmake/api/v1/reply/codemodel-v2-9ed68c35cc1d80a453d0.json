@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "project_dofus__theme_Shrek",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "project_dofus__theme_Shrek::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_dofus__theme_Shrek-Debug-9841d6157c3dd5bf8d81.json",
+					"name" : "project_dofus__theme_Shrek",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jbfer/Documents/BACH B2/code jeu c/project dofus, theme Shrek/cmake-build-debug",
+		"source" : "C:/Users/jbfer/Documents/BACH B2/code jeu c/project dofus, theme Shrek"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
