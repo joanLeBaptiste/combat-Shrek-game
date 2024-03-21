@@ -4,14 +4,14 @@ This project is a turn-based combat game developed in C language with the use of
 
 ## Game Description
 
-The turn-based combat game on the theme of Shrek allows between 2 and 4 players to engage in battles using characters from the Shrek universe. Players take turns to select actions such as attacking, defending, or using special abilities to defeat their opponents.
+The turn-based combat game on the theme of Shrek allows between 2 and 4 players to engage in battles using characters from the Shrek universe. Players take turns to select actions such as attacking, and moving.
 
 ## Features
 
 - **Number of Players:** 2 to 4 players can participate in a single game session.
 - **Characters:** Incorporates the four main characters from the Shrek films: Shrek, Fiona, Donkey, and Puss in Boots.
-- **Gameplay:** Players engage in turn-based combat, strategizing their moves to outwit opponents and emerge victorious.
-- **Development Environment:** Initially developed using CodeBlocks and later migrated to Clion for enhanced development experience.
+- **Gameplay:** turn-based combat
+- **Development Environment:** Initially developed using CodeBlocks and later migrated to Clion
 - **Graphics:** Utilizes Allegro 4.4 library for rendering graphics and providing an engaging visual experience.
 
 ## How to Play
@@ -23,7 +23,7 @@ The turn-based combat game on the theme of Shrek allows between 2 and 4 players 
 
 ## Contributors
 
-- [Joan-Baptiste Ferrando]([link-to-your-profile](https://github.com/joanLeBaptiste)) 
+- https://github.com/joanLeBaptiste
 
 images source:
 https://www.spriters-resource.com/game_boy_advance/shrekhassle/
